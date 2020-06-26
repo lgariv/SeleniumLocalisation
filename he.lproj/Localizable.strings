@@ -18,7 +18,7 @@
 	<key>sTIME</key>
 	<string>זמן ספציפי</string>
 	<key>SNOOZEU</key>
-	<string>Snooze Until</string>
+	<string>דחה עד ל</string>
 	<key>CANCEL</key>
 	<string>ביטול</string>
 </dict>
