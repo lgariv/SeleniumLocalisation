@@ -21,4 +21,6 @@
 	<string>Snooze jusqu'à</string>
 	<key>CANCEL</key>
 	<string>Cancel</string>
+	<key>TAPCHANGE</key>
+	<string>Appuyez Pour Changer</string>
 </dict>
