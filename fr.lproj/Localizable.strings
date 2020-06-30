@@ -18,7 +18,7 @@
 	<key>sTIME</key>
 	<string>Durée personnalisée</string>
 	<key>SNOOZEU</key>
-	<string>Snooze jusqu'à</string>
+	<string>Snooze jusqu'à </string>
 	<key>CANCEL</key>
 	<string>Cancel</string>
 	<key>TAPCHANGE</key>
